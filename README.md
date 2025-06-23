@@ -44,10 +44,8 @@ This project simulates a basic heart rate monitor using a function generator tha
 ## 🖼️ Circuit Diagram
 
 📌 _**Tinkercad virtual setup**_  
-[Insert your circuit screenshot or diagram here]  
-Example:
 
-![Circuit](images/circuit_diagram.png)
+![Circuit](https://github.com/Thaya2003/Heartbeat-Monitor-Arduino/blob/main/images/Arduino-Connection.png)
 
 ---
 
@@ -59,12 +57,12 @@ Example:
 
 ---
 
-**Conclusion**
+## Conclusion
 The project successfully simulates a heartbeat monitor using a virtual setup. The signal values vary in real-time, mimicking a human pulse wave. This setup is ideal for learning basic IoT and biomedical sensor integration.
 
 ---
 
-**Future Scope**
+## Future Scope
 - Add BPM (Beats Per Minute) calculator
 - Connect to Blynk app or IoT dashboard
 - Use actual pulse sensor and OLED display
@@ -72,19 +70,25 @@ The project successfully simulates a heartbeat monitor using a virtual setup. Th
 
 ---
 
-📁 Folder Structure (Suggestion)
+## Folder Structure 
+```
 heartbeat-monitor-arduino/
-├── heartbeat.ino
+├── heart-beat.ino
 ├── README.md
-├── project_report.pdf
+├── Mini Project Report.pdf
 ├── images/
-│   ├── circuit_diagram.png
-│   └── serial_output.png
+│   ├── Arduino-Connection.png
+│   └── output.png
+|   └── circuit-diagram.png
+```
 
 ---
 
 👤 Author
 Name: Thaya Lakshmi S
+
 Department: Biomedical Engineering
+
 Semester: 2nd
+
 GitHub: github.com/Thaya2003
